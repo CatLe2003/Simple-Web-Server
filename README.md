@@ -22,12 +22,12 @@ thông điệp.
 1.3. Kiểu dữ liệu của thông điệp:
 • Dữ liệu gửi đi và dữ liệu nhận vào đều là kiểu chuỗi ký tự (string).
 2. MÔI TRƯỜNG LẬP TRÌNH
-• Ứng dụng được viết trên hệ điều hành Window 11.
-• Các dữ liệu được lưu dưới dạng file *.java.
-• Web chứa dữ liệu được đặt tại địa chỉ: localhost:8080.
-• Ngôn ngữ lập trình: Java.
-• Môi trường lập trình: Eclipse và Visual Studio Code.
-• Thư viện hỗ trợ: Các thư viện có sẵn trong của Java.
+- Ứng dụng được viết trên hệ điều hành Window 11.
+- Các dữ liệu được lưu dưới dạng file *.java.
+- Web chứa dữ liệu được đặt tại địa chỉ: localhost:8080.
+- Ngôn ngữ lập trình: Java.
+- Môi trường lập trình: Eclipse và Visual Studio Code.
+- Thư viện hỗ trợ: Các thư viện có sẵn trong của Java.
 3. HƯỚNG DẪN SỬ DỤNG CHƯƠNG TRÌNH
 - Chạy chương trình WebServer.
 - Truy cập vào port 8080 của máy đang chạy chương trình bằng browser với các test cases:
